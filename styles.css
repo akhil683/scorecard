@@ -68,3 +68,13 @@ button:hover {
     font-size: 2rem;
 
 }
+
+@media (max-width: 640px) {
+ h1 {
+   font-size: 3rem;
+   margin-top: 10px;
+}
+.scorecard {
+   flex-wrap: wrap:
+}
+}
